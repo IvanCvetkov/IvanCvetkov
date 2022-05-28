@@ -3,7 +3,7 @@
 ### 📫 How to reach me: 
 <ul>
   <li>Email: <a href="i.tsvetkovbg@gmail.com">i.tsvetkovbg@gmail.com</a></li>
-  <li>LinkedIn: <a href="linkedin.com/in/ivan-cvetkov-427333237">linkedin.com/in/ivan-cvetkov</a></li>
+  <li>LinkedIn: <a href="linkedin.com/in/ivan-cvetkov-427333237">linkedin.com/in/ivan-cvetkov-427333237</a></li>
 </ul>
 
 
