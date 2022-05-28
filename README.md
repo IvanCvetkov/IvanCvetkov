@@ -1,7 +1,7 @@
 ### 👋 Greetings, I am Ivan Cvetkov
 ### :pushpin: I am interested in programming, training and cars 😄
 ### 📫 How to reach me: 
-- Email: ["i.tsvetkovbg@gmail.com"](i.tsvetkovbg@gmail.com)
+- Email: i.tsvetkovbg@gmail.com
 - LinkedIn: [linkedin.com/in/ivan-cvetkov](https://www.linkedin.com/in/ivan-cvetkov-427333237/)
 
 
