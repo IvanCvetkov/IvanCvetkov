@@ -1,5 +1,5 @@
 ### 👋 Greetings, I am Ivan Cvetkov
-### :pushpin: I am interested in programming, training and cats 😄
+### :pushpin: I am interested in programming, training and cars 😄
 ### 📫 How to reach me: 
 <ul>
   <li>Email: <a href="i.tsvetkovbg@gmail.com">i.tsvetkovbg@gmail.com</li>
